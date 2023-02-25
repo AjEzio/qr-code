@@ -20,8 +20,8 @@ The challenge consist of a creating a webpage with a QR code which when scanned 
 
 ### Links
 
-- Solution URL: [Add solution URL here]()
-- Live Site URL: [Add live site URL here](https://ajezio.github.io/qr-code/)
+- Solution URL: [Solution](https://github.com/AjEzio/qr-code)
+- Live Site URL: [Live-site](https://ajezio.github.io/qr-code/)
 
 ## My process
 Created a div with image and text inside.
