@@ -15,7 +15,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 The challenge consist of a creating a webpage with a QR code which when scanned leads to the frontend mentors page.
 ### Screenshot
 
-![](images/screenshot.jpg)
+![Screenshot](screenshot.jpg)
 
 
 ### Links
